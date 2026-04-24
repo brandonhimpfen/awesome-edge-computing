@@ -78,6 +78,7 @@ Edge Computing is the practice of processing data closer to where it is generate
 - [LF Edge Projects](https://www.lfedge.org/projects/) – Multiple open-source projects under Linux Foundation’s edge computing umbrella.
 - [OpenYurt](https://openyurt.io/) – Extends Kubernetes to edge computing scenarios.
 - [Fledge](https://www.lfedge.org/projects/fledge/) – Open-source industrial edge platform.
+- [KubeStellar Console](https://github.com/kubestellar/console) – Open source AI-powered multi-cluster Kubernetes dashboard for managing hybrid edge and cloud environments. Supports real-time observability with 20+ CNCF integrations and AI-guided cluster operations. CNCF Sandbox project (Apache 2.0).
 
 ## Research & Papers
 
