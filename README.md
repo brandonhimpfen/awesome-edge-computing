@@ -1,4 +1,4 @@
-# Awesome Edge Computing [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
+#Awesome Edge Computing [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
@@ -44,6 +44,7 @@ Edge Computing is the practice of processing data closer to where it is generate
 
 - [Google Distributed Cloud Edge](https://cloud.google.com/distributed-cloud/edge) – Google’s fully managed edge solution.
 - [IBM Edge Application Manager](https://www.ibm.com/products/edge-application-manager) – Manages workloads on edge devices at scale.
+- [Nife](https://nife.io/) – Unified platform for deploying, managing, and scaling applications across cloud, edge, and AI infrastructure.
 - [Cloudflare Workers](https://workers.cloudflare.com/) – Serverless functions running at the network edge.
 - [Fastly Compute@Edge](https://www.fastly.com/products/compute-at-edge) – Edge cloud platform for running apps closer to users.
 - [Verizon 5G Edge](https://www.verizon.com/business/products/5g/edge-computing/) – Low-latency edge computing services over 5G.
