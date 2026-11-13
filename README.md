@@ -77,6 +77,7 @@ Edge Computing is the practice of processing data closer to where it is generate
 
 ## Open Source Projects
 
+- [ECLYPSE](https://github.com/eclypse-org/eclypse) – Python framework for simulating and emulating cloud-edge applications and evaluating service placement strategies.
 - [LF Edge Projects](https://www.lfedge.org/projects/) – Multiple open-source projects under Linux Foundation’s edge computing umbrella.
 - [OpenYurt](https://openyurt.io/) – Extends Kubernetes to edge computing scenarios.
 - [Fledge](https://www.lfedge.org/projects/fledge/) – Open-source industrial edge platform.
